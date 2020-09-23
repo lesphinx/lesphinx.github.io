@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to My github Page
 
-You can use the [editor on GitHub](https://github.com/lesphinx/lesphinx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ici je vous présentte la liste de mes réalisations et projets ainsi que les differents liens.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pour connaitre un peu plus sur le sphinx  veillez visitez mon site personne/ portofolio et blog à l'adresse [Ibrahim Koubaye le sphinx](https://ibrahimkoubaye.herokuapp.com)
 
-### Markdown
+### Mes réalisations 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dans cette section je présente les defférent que j'ai réaliser où que j'ai contribué à sa réalisation.
 
 ```markdown
-Syntax highlighted code block
+Mes principales réalisations sont
 
-# Header 1
-## Header 2
-### Header 3
+# TansGaB
+## Gvoyage
+### BestVoyage
 
 - Bulleted
 - List
@@ -26,12 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+Pour plus de détail visiter mon site pesonnel
+### Mes domaines de compétence !
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lesphinx/lesphinx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contactez moi
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+vous voulez un collaborateur talentuex? un développeur full-stack ou même un datascientiste alors contactez moi à l'adresse ibrahimkoubaye@outlook.com 
